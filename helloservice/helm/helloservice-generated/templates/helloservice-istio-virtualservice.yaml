@@ -8,7 +8,7 @@ spec:
   - public-gateway.istio-system
   - mesh
   hosts:
-  - helloservice.podtatohead-hardening.public.demo.keptn.sh
+  - helloservice.podtatohead-hardening.svc.cluster.local
   - helloservice
   http:
   - route:
