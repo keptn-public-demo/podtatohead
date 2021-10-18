@@ -1,2 +1,2 @@
-image: gabrieltanner/hello-server:v0.1.1
+image: gabrieltanner/hello-server:v0.1.2
 replicaCount: 1
