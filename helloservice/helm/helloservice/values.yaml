@@ -1,2 +1,2 @@
-image: gabrieltanner/hello-server:v0.1.1
+image: docker.io/nginx:latest
 replicaCount: 1
